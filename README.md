@@ -14,4 +14,13 @@ No permitio subirlos en el mismo github por el peso
 
 https://github.com/user-attachments/assets/0e8a6de4-1a54-4d00-adda-fd5a0965409b
 
+# Ejercicio line chart
+
+https://github.com/user-attachments/assets/9b0a17f2-8ede-4f90-b04a-db66407c4b99
+
+# Ejercicio humidity_level
+
+https://github.com/user-attachments/assets/d2533eb9-bfa2-41a9-8df1-50d35457debb
+
+
 
